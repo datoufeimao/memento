@@ -1,0 +1,1 @@
+This is a project to take a note and organize your tasks and schedules with priorities and timeline.
